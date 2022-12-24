@@ -1,6 +1,8 @@
 # Articles
 
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03T10-25.md)
+1. [SBF au Flat Time King 2003](./2005-04-08T10-42.md)
+1. [BRAUN Lôzflat Contest - 19. und 20. März 2005](./2005-04-08T10-43.md)
 1. [Joe et Ruben à Genève - du 21 au 25 mai 2005](./2005-06-14T09-44.md)
 1. [Xpress Flatland Jam 2 samedi 9 juillet 2005](./2005-07-26T13-17.md)
 1. [Démos de Swiss BMX Freestyle pour l’AGS au Palexpo, Genève - 2 au 4 février 2007](./2007-02-08T15-08.md)
