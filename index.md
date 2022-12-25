@@ -3,6 +3,7 @@
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08T18-44.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14T18-44.md)
 1. [L’association Swiss BMX Freestyle au King of Paca 2003](./2003-06-18T18-44.md)
+1. [BMXJAM 03 - Samedi 20 septembre 2003 - Les photos](./2003-09-20T18-44.md)
 1. [Swiss BMX Freestyle au Braun Flatground du 27 au 29 février 2004](./2004-02-29T18-44.md)
 1. [BOWLaBMX 04 - Samedi 8 et dimanche 9 août 2004 - Les photos](./2004-08-09T18-44.md)
 1. [Le flat à l’Urban Contest à Lausanne, du 20 au 22 août 2004](./2004-08-22T18-44.md)
