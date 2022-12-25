@@ -2,6 +2,7 @@
 
 1. [Interview : Steven Blatter](./2002-02-27.md)
 1. [Interview : Marco Vetterli](./2002-03-20.md)
+1. [Asphaltissimo 2002](./2002-06-19.md)
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08.md)
 1. [BMXJAM 02 - Samedi 21 septembre 2002](./2002-09-21.md)
 1. [Christmas Jam 2002](./2003-01-13.md)
