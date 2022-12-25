@@ -7,6 +7,7 @@
 1. [Christmas Jam 2002](./2003-01-13.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14.md)
 1. [L’association Swiss BMX Freestyle au King of Paca 2003](./2003-06-18.md)
+1. [BOWLaBMX 03, 9 et 10 août 2003](./2003-08-10.md)
 1. [BMXJAM 03 - Samedi 20 septembre 2003 - Les photos](./2003-09-20.md)
 1. [SBF à la Vrac 03, samedi 13 et dimanche 14 décembre 2003](./2003-12-14.md)
 1. [SBF à la Christmas Jam 03 - samedi 27 décembre 2003](./2003-12-27.md)
