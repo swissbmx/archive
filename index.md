@@ -91,3 +91,5 @@
 1. [S’inscrire](./2009-02-24.md)
 1. [30 ans](./2009-03-17_1.md)
 1. [Momo fait le bo](./2009-03-17_2.md)
+1. [Bike Days](./2009-03-18_1.md)
+1. [Vans BMX Chess](./2009-03-18_2.md)
