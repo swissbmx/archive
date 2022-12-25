@@ -3,6 +3,7 @@
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08T18-44.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14T18-44.md)
 1. [L’association Swiss BMX Freestyle au King of Paca 2003](./2003-06-18T18-44.md)
+1. [Swiss BMX Freestyle au Braun Flatground du 27 au 29 février 2004](./2004-02-29T18-44.md)
 1. [Le flat à l’Urban Contest à Lausanne, du 20 au 22 août 2004](./2004-08-22T18-44.md)
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03T10-25.md)
 1. [BRAUN Lôzflat Contest - 19 et 20 mars 2005 - Les résultats](./2005-03-21T19-01.md)
