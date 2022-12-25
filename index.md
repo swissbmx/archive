@@ -56,3 +56,4 @@
 1. [BMXJAM 08 - Samedi 20 septembre 2008](./2008-10-12.md)
 1. [LA VIDEO de la BMXJAM08](./2008-10-13.md)
 1. [Activités SBF + Info](./2008-11-05.md)
+1. [ds brichtli über d bmxshow ar feriemess](./2009-02-02.md)
