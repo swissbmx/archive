@@ -37,6 +37,7 @@
 1. [BRAUN Lôzflat Contest - 19. und 20. März 2005](./2005-04-08_2.md)
 1. [Joe et Ruben à Genève - du 21 au 25 mai 2005](./2005-06-14.md)
 1. [Canada from West to East. 18.03-21.07.2006](./2006-07-21.md)
+1. [Fun Box démos à Genève - le 30 juillet 2006](./2006-07-31.md)
 1. [Vidéo de flatland](./2006-08-09.md)
 1. [LA VIDEO street et flat de la BMXJAM06](./2006-10-09_1.md)
 1. [BMXJAM 06 - STREET - Samedi 23 septembre 2006](./2006-10-09_2.md)
