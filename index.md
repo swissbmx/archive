@@ -1,6 +1,7 @@
 # Articles
 
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03T10-25.md)
+1. [BRAUN Lôzflat Contest - 19 et 20 mars 2005 - Les résultats](./2005-03-21T19-01.md)
 1. [SBF au Flat Time King 2003](./2005-04-08T10-42.md)
 1. [BRAUN Lôzflat Contest - 19. und 20. März 2005](./2005-04-08T10-43.md)
 1. [Joe et Ruben à Genève - du 21 au 25 mai 2005](./2005-06-14T09-44.md)
