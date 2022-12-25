@@ -11,6 +11,7 @@
 1. [SBF à la Vrac 03, samedi 13 et dimanche 14 décembre 2003](./2003-12-14.md)
 1. [SBF à la Christmas Jam 03 - samedi 27 décembre 2003](./2003-12-27.md)
 1. [Swiss BMX Freestyle au Braun Flatground du 27 au 29 février 2004](./2004-02-29.md)
+1. [Atelier SBF d’initiation au flatland@Chailly Raid 4 Fun](./2004-06-12.md)
 1. [BOWLaBMX 04 - Samedi 8 et dimanche 9 août 2004 - Les photos](./2004-08-09.md)
 1. [Le flat à l’Urban Contest à Lausanne, du 20 au 22 août 2004](./2004-08-22.md)
 1. [SBFs Reise nach Köln für Worldchampionships 2004](./2004-08-31.md)
