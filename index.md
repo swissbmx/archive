@@ -1,6 +1,7 @@
 # Articles
 
 1. [Interview : Steven Blatter](./2002-02-27T18-44.md)
+1. [Interview : Marco Vetterli](./2002-03-20T18-44.md)
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08T18-44.md)
 1. [BMXJAM 02 - Samedi 21 septembre 2002](./2002-09-21T18-44.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14T18-44.md)
