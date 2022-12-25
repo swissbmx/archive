@@ -11,6 +11,7 @@
 1. [BOWLaBMX 04 - Samedi 8 et dimanche 9 août 2004 - Les photos](./2004-08-09T18-44.md)
 1. [Le flat à l’Urban Contest à Lausanne, du 20 au 22 août 2004](./2004-08-22T18-44.md)
 1. [SBFs Reise nach Köln für Worldchampionships 2004](./2004-08-31T18-44.md)
+1. [SBF roadtrip : Barcelona, España](./2004-09-01T18-44.md)
 1. [BMXJAM 04 - Samedi 18 septembre 2004 - Les résultats](./2004-09-18T18-44.md)
 1. [Zürich flatland crew roadtrip : Côte d’Azur 13-17.10.2004](./2004-10-17T18-44.md)
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03T10-25.md)
