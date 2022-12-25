@@ -4,6 +4,7 @@
 1. [Interview : Marco Vetterli](./2002-03-20.md)
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08.md)
 1. [BMXJAM 02 - Samedi 21 septembre 2002](./2002-09-21.md)
+1. [Christmas Jam 2002](./2003-01-13.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14.md)
 1. [L’association Swiss BMX Freestyle au King of Paca 2003](./2003-06-18.md)
 1. [BMXJAM 03 - Samedi 20 septembre 2003 - Les photos](./2003-09-20.md)
