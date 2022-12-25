@@ -25,3 +25,4 @@
 1. [New dirt spot GVA - Juillet 2008](./2008-07-17T20-27.md)
 1. [SBF BMXCAMP - Juillet et août 2008](./2008-09-17T19-05.md)
 1. [BMXJAM 08 - Samedi 20 septembre 2008](./2008-10-12T14-00.md)
+1. [Activités SBF + Info](./2008-11-05T21-51.md)
