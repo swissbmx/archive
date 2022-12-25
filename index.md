@@ -1,6 +1,4 @@
-# Articles
-
-## 2002
+# 2002
 
 1. [Interview : Steven Blatter](./2002-02-27.md)
 1. [Interview : Marco Vetterli](./2002-03-20.md)
@@ -8,7 +6,7 @@
 1. [L’association Swiss BMX Freestyle aux Worlds 2002 à Cologne](./2002-07-08.md)
 1. [BMXJAM 02 - Samedi 21 septembre 2002](./2002-09-21.md)
 
-## 2003
+# 2003
 
 1. [Christmas Jam 2002](./2003-01-13.md)
 1. [L’association Swiss BMX Freestyle à Thun](./2003-06-14.md)
@@ -19,7 +17,7 @@
 1. [SBF à la Vrac 03, samedi 13 et dimanche 14 décembre 2003](./2003-12-14.md)
 1. [SBF à la Christmas Jam 03 - samedi 27 décembre 2003](./2003-12-27.md)
 
-## 2004
+# 2004
 
 1. [Swiss BMX Freestyle au Braun Flatground du 27 au 29 février 2004](./2004-02-29.md)
 1. [La AIRPORT BMX JAM, 3 et 4 Avril 2004, Genève](./2004-04-04_1.md)
@@ -38,7 +36,7 @@
 1. [Zürich flatland crew roadtrip : Côte d’Azur 13-17.10.2004](./2004-10-17.md)
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03.md)
 
-## 2005
+# 2005
 
 1. [Un flatlander lausannois au Maroc](./2005-01-08.md)
 1. [Strassenleben](./2005-03-08_1.md)
@@ -51,7 +49,7 @@
 1. [Xpress Flatland Jam 2 samedi 9 juillet 2005](./2005-07-26.md)
 1. [Port Maritime Contest, Luzerne - les 13 et 14 Août 2005](./2005-08-14.md)
 
-## 2006
+# 2006
 
 1. [Vidéo de flatland de Steven Blatter](./2006-04-01.md)
 1. [Canada from West to East. 18.03-21.07.2006](./2006-07-21.md)
@@ -61,7 +59,7 @@
 1. [BMXJAM 06 - STREET - Samedi 23 septembre 2006](./2006-10-09_2.md)
 1. [izislider](./2006-12-09.md)
 
-## 2007
+# 2007
 
 1. [Roadtrip en Italie](./2007-07-09.md)
 1. [Démos de Swiss BMX Freestyle pour l’AGS au Palexpo, Genève - 2 au 4 février 2007](./2007-02-08.md)
@@ -70,7 +68,7 @@
 1. [LA VIDEO de la BMXJAM07](./2007-10-09.md)
 1. [BMXJAM 07 - Samedi 29 septembre 2007](./2007-10-21.md)
 
-## 2008
+# 2008
 
 1. [Salon Vacances, Sport et Loisirs - 25-27 janvier 2008](./2008-02-12.md)
 1. [Vertigo 08 - Juin 2008](./2008-07-17_1.md)
@@ -81,7 +79,7 @@
 1. [LA VIDEO de la BMXJAM08](./2008-10-13.md)
 1. [Activités SBF + Info](./2008-11-05.md)
 
-## 2009
+# 2009
 
 1. [BMX Jam 08 sur Léman Bleu](./2009-01-28.md)
 1. [ds brichtli über d bmxshow ar feriemess](./2009-02-02.md)
