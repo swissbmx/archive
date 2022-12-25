@@ -62,4 +62,5 @@
 1. [Activités SBF + Info](./2008-11-05.md)
 1. [BMX Jam 08 sur Léman Bleu](./2009-01-28.md)
 1. [ds brichtli über d bmxshow ar feriemess](./2009-02-02.md)
-1. [Ghetto Jam](./2009-02-06.md)
+1. [Ghetto Jam](./2009-02-06_1.md)
+1. [Summer camps](./2009-02-06_2.md)
