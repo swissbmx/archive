@@ -17,6 +17,7 @@
 1. [La AIRPORT BMX JAM, 3 et 4 Avril 2004, Genève](./2004-04-04_1.md)
 1. [Die AIRPORT BMX JAM in Genf, 3. und 4. April 2004](./2004-04-04_2.md)
 1. [Atelier SBF d’initiation au flatland@Chailly Raid 4 Fun](./2004-06-12.md)
+1. [La Xpress Flatland Jam, samedi 10 Juillet 2004](./2004-07-10.md)
 1. [BOWLaBMX 04 - Samedi 8 et dimanche 9 août 2004 - Les photos](./2004-08-09_1.md)
 1. [BOWLaBMX 04 : 8 et 9 août 2004](./2004-08-09_2.md)
 1. [Le flat à l’Urban Contest à Lausanne, du 20 au 22 août 2004](./2004-08-22.md)
