@@ -20,6 +20,7 @@
 1. [SBF roadtrip : Barcelona, España](./2004-09-01.md)
 1. [BMXJAM 04 - Samedi 18 septembre 2004 - Les résultats](./2004-09-18_1.md)
 1. [BMXJAM 04 - STREET - Samedi 18 septembre 2004](./2004-09-18_2.md)
+1. [BMXJAM 04 - STREET - Samstag 18. September 2004](./2004-09-18_3.md)
 1. [Zürich flatland crew roadtrip : Côte d’Azur 13-17.10.2004](./2004-10-17.md)
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03.md)
 1. [Un flatlander lausannois au Maroc](./2005-01-08.md)
