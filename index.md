@@ -12,6 +12,7 @@
 1. [SBFs Reise nach Köln für Worldchampionships 2004](./2004-08-31T18-44.md)
 1. [BMXJAM 04 - Samedi 18 septembre 2004 - Les résultats](./2004-09-18T18-44.md)
 1. [Dirt Contest au Palexpo, 3 décembre 2004](./2004-12-03T10-25.md)
+1. [Strassenleben](./2005-03-08T18-44.md)
 1. [BRAUN Lôzflat Contest - 19 et 20 mars 2005 - Les résultats](./2005-03-21T19-01.md)
 1. [SBF au Flat Time King 2003](./2005-04-08T10-42.md)
 1. [BRAUN Lôzflat Contest - 19. und 20. März 2005](./2005-04-08T10-43.md)
