@@ -131,3 +131,4 @@
 1. [Geneva Mega Scena Reporta - SOUL VID](./2009-11-25.md)
 1. [Rumeurs...](./2009-11-26.md)
 1. [Facebook](./2009-12-01.md)
+1. [Made in Damien](./2009-12-02.md)
