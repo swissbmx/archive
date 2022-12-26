@@ -111,3 +111,5 @@
 1. [Asphaltissimo 09 dans la presse (2)](./2009-08-10_2.md)
 1. [BMX Summer Camps / juillet 09](./2009-08-10_3.md)
 1. [Asphaltissimo 09 en images](./2009-08-14.md)
+1. [BMX Summer Camps / août 09](./2009-08-24.md)
+1. [Vans BMX Jam 2009](./2009-08-26.md)
