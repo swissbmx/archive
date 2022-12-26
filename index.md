@@ -113,3 +113,6 @@
 1. [Asphaltissimo 09 en images](./2009-08-14.md)
 1. [BMX Summer Camps / août 09](./2009-08-24.md)
 1. [Vans BMX Jam 2009](./2009-08-26.md)
+1. [on a des nouveaux tisheurts !! Tralalala !!!](./2009-09-17.md)
+1. [Geneva Mega Scena Reporta - SOUL VID](./2009-11-25.md)
+1. [Rumeurs...](./2009-11-26.md)
