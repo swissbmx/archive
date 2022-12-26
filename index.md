@@ -133,4 +133,5 @@
 1. [Facebook](./2009-12-01.md)
 1. [Made in Damien](./2009-12-02.md)
 1. [Réunion du comité SBF](./2009-12-16.md)
-1. [2009 vu par l’objectif d’Alex](./2009-12-20.md)
+1. [2009 vu par l’objectif d’Alex](./2009-12-20_1.md)
+1. [camouflage](./2009-12-20_2.md)
