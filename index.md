@@ -92,3 +92,7 @@
 1. [Bike Days](./2009-03-18_1.md)
 1. [Vans BMX Chess](./2009-03-18_2.md)
 1. [Asphaltissimo 09](./2009-03-31.md)
+1. [Le Président à l’honneur sur Dig BMX ...](./2009-05-14.md)
+1. [L’ouverture de la cabane?](./2009-04-28.md)
+1. [Ghetto Jam, slideshow](./2009-05-04.md)
+1. [Inauguration de la piste de BMX de Troinex](./2009-05-07.md)
